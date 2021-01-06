@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallpaper_demo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="save">save</string>
+    <string name="title_activity_second">Wallpaper_search</string>
+    <string name="unsplash_api_key">yourkey</string>
+</resources>
